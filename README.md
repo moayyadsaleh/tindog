@@ -1,5 +1,4 @@
 # tindog
-TinDog: A playful project crafted with CSS, Bootstrap, and HTML.
 This repository contains the source code for TinDog, a responsive webpage I designed for fun during my bootcamp training. It utilizes HTML, CSS, and Bootstrap for the front-end design, ensuring a seamless and visually appealing experience across different devices. 
 Here are some web design strategies I used:
 Spacious & Sleek: clean layouts and ample white space for a polished and modern feel.
